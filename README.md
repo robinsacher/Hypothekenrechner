@@ -5,7 +5,7 @@ Sacher, Warnebold, Müller, Hitz
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|  29.10.2022     | 0.0.1   | User Stories erstellt |
+|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -13,16 +13,16 @@ Sacher, Warnebold, Müller, Hitz
 
 ### 1.1 Ihr Projekt
 
-in diesem Projekt wird ein Hypothekenrechner erstellt
+✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1   |  muss          |  Funktional     | Als user möchte ich den Betrag für die Hypothek eingeben können
-|   2 |    muss        |  Funktional     | Als user möchte ich den Betrag für den Zinssatz eingeben können
-|  3  |    muss        |  Funktional     | Als user möchte ich die jährliche Zinsbelastung eingeben können
-|  4  |   muss         |  Funktional     | Als user möchte ich den Hypothekbetrag, Zinssatz, Zinsbtrag berechnen können
+|   2 |    muss        |  Funktional     | Als user möchte ich den aktuellen Zinssatz eingeben können
+|  3  |    muss        |  Funktional     | Als user möchte ich die jährliche Zinsbelastung berechnen können
+|  4  |   muss         |  Funktional     | Als user möchte ich den Hypothekbetrag und Zinsbtrag berechnen können
 |  5  |  muss          |  Funktional     | Als user möchte ich die benötigten finanziellen Mitteln für den Kauf der Liegenschaft sowie der Hypothekarzinsbelastung angeben können
 | 6   |   muss         | Funktional      | Als user möchte ich berechnen können nach wie vielen Jahren der kauf einer Liegenschaft günstiger im Vergleich zur Miete ist(Jährliche Mietkosten)
 | 7   |  muss          |  Funktional     | Als user möchte ich berechnen können, welchen Betrag ich monatlich amortisieren muss, um diese rechtzeitig zu amortisieren
@@ -34,6 +34,11 @@ in diesem Projekt wird ein Hypothekenrechner erstellt
 
 
 
+
+
+
+
+✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
