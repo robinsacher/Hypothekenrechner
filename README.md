@@ -1,7 +1,7 @@
  # Projekt-Dokumentation
 
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Sacher, Warnebold, Müller, Hitz
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
