@@ -5,7 +5,7 @@ Sacher, Warnebold, Müller, Hitz
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+|  29.10.2022     | 0.0.1   | User Stories erstellt |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -13,7 +13,7 @@ Sacher, Warnebold, Müller, Hitz
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+in diesem Projekt wird ein Hypothekenrechner erstellt
 
 ### 1.2 User Stories
 
@@ -34,11 +34,6 @@ Sacher, Warnebold, Müller, Hitz
 
 
 
-
-
-
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
