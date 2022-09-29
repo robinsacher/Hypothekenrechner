@@ -22,11 +22,11 @@ Sacher, Warnebold, Müller, Hitz
 | 1   |  muss          |  Funktional     | Als user möchte ich den Betrag für die Hypothek eingeben können
 |   2 |    muss        |  Funktional     | Als user möchte ich den aktuellen Zinssatz eingeben können
 |  3  |    muss        |  Funktional     | Als user möchte ich die jährliche Zinsbelastung berechnen können
-|  4  |   muss         |  Funktional     | Als user möchte ich den Hypothekbetrag und Zinsbtrag berechnen können
+|  4  |   muss         |  Funktional     | Als user möchte ich den Hypothekbetrag und Zinsbetrag berechnen können
 |  5  |  muss          |  Funktional     | Als user möchte ich die benötigten finanziellen Mitteln für den Kauf der Liegenschaft sowie der Hypothekarzinsbelastung angeben können
 | 6   |   muss         | Funktional      | Als user möchte ich berechnen können nach wie vielen Jahren der kauf einer Liegenschaft günstiger im Vergleich zur Miete ist(Jährliche Mietkosten)
 | 7   |  muss          |  Funktional     | Als user möchte ich berechnen können, welchen Betrag ich monatlich amortisieren muss, um diese rechtzeitig zu amortisieren
-| 8   |  muss          |  Funktional     | Als user darf ich nicht länger als 15 Jahre oder bis zur Pensionierung haben bis max. 2/3 des Kaufpreises reduziert worden sind
+| 8   |  muss          |  Funktional     | Als user darf ich nicht länger als 15 Jahre oder bis zur Pensionierung haben bis max. 2/3 des Kaufpreises reduziert worden ist
 | 9   |  muss          | Funktional      | Als user möchte ich mein alter eingeben können
 | 10  |  kann          |  Funktional     | Als user möchte ich das Fehleingaben abgefangen werden
 | 11  |  kann          |  Funktional     | Als user möchte ich am Ende eine Zusammenfassung erhalten
@@ -41,15 +41,15 @@ Sacher, Warnebold, Müller, Hitz
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |   Programm gestartet          |  500   |   500            |
 | 2.1  |   Programm gestartet          |   2    |    2             |
-| 3.1  |   Programm gestartet          |        |                  |
-| 4.1  |   Programm gestartet          |        |                  |
-| 5.1  |   Programm gestartet          |        |                  |
+| 3.1  |            |        |                  |
+| 4.1  |   Hypothek und Zinssatz eingegeben |        |                  |
+| 5.1  |                               |        |                  |
 | 6.1  |   Programm gestartet          |        |                  |
-| 7.1  |   Programm gestartet          |        |                  |
-| 8.1  |   Programm gestartet          |        |                  |
-| 9.1  |   Programm gestartet          |        |                  |
-| 10.1 |   Programm gestartet          |        |                  |
-| 11.1 |   Programm gestartet          |        |                  |
+| 7.1  |   Eingabe der Dauer in Monaten| 24     | 1000             |
+| 8.1  |   Eingabe Alter und Kaufpreis | 30 und 100 000| Geht      |
+| 9.1  |   Programm gestartet          | 30     | 30               |
+| 10.1 |   Programm gestartet          | fehleingabe | Bitte geben sie etwas gültiges ein |
+| 11.1 |   Alle Eingaben getätigt      | Die Verlangten Angaben| Zahlen in einer Tabelle  |
 
 
 
