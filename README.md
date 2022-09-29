@@ -19,8 +19,24 @@ Sacher, Warnebold, Müller, Hitz
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1   |  muss          |  Funktional     | Als user möchte ich den Betrag für die Hypothek eingeben können
+|   2 |    muss        |  Funktional     | Als user möchte ich den Betrag für den Zinssatz eingeben können
+|  3  |    muss        |  Funktional     | Als user möchte ich die jährliche Zinsbelastung eingeben können
+|  4  |   muss         |  Funktional     | Als user möchte ich den Hypothekbetrag, Zinssatz, Zinsbtrag berechnen können
+|  5  |  muss          |  Funktional     | Als user möchte ich die benötigten finanziellen Mitteln für den Kauf der Liegenschaft sowie der Hypothekarzinsbelastung angeben können
+| 6   |   muss         | Funktional      | Als user möchte ich berechnen können nach wie vielen Jahren der kauf einer Liegenschaft günstiger im Vergleich zur Miete ist(Jährliche Mietkosten)
+| 7   |  muss          |  Funktional     | Als user möchte ich berechnen können, welchen Betrag ich monatlich amortisieren muss, um diese rechtzeitig zu amortisieren
+| 8   |  muss          |  Funktional     | Als user darf ich nicht länger als 15 Jahre oder bis zur Pensionierung haben bis max. 2/3 des Kaufpreises reduziert worden sind
+| 9   |  muss          | Funktional      | Als user möchte ich mein alter eingeben können
+| 10  |  kann          |  Funktional     | Als user möchte ich das Fehleingaben abgefangen werden
+| 11  |  kann          |  Funktional     | Als user möchte ich am Ende eine Zusammenfassung erhalten
+
+
+
+
+
+
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
