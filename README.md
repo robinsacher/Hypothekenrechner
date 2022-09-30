@@ -68,10 +68,22 @@ Ein Hypothekenrechner der die Laufzeit und kosten berechnen kann, sowie mieten u
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |  08.12.2022     |           |   Eingabe           |    10min           |
+| 2.A  |  08.12.2022      |           |   Eingabe           |     10min          |
+| 3.A  |  08.12.2022      |           |   Eingabe           |     10min          |
+| 4.A  |   08.12.2022     |           |    Berechnung          |     60min          |
+| 5.A  |   08.12.2022     |           |     Eingabe         |     10min          |
+| 6.A  |   08.12.2022    |           |     Berechnung         |     60min          |
+| 7.A  |    08.12.2022    |           |     Berechnung         |      120min         |
+| 8.A  |    08.12.2022    |           |     Berechnug         |       120min        |
+| 9.A  |    08.12.2022    |           |     Eingabe         |       10min        |
+| 10.A  |   08.12.2022     |           |    Sicherheitskontrolle          |      30min         |
+| 11.A  |   08.12.2022     |           |    Ausgabe          |      10min         |
 
-Total: 
+
+
+
+Total: 450min
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
