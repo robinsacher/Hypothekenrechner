@@ -1,7 +1,17 @@
  # Projekt-Dokumentation
 
-
 Sacher, Warnebold, Müller, Hitz
+
+# Projektleiter
+
+Sacher
+
+# Kontaktdaten
+
+Tel: 077 466 85 88
+#
+E-Mail: robin.sacher@students.ksba.ch
+
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -9,13 +19,28 @@ Sacher, Warnebold, Müller, Hitz
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
+
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
 Ein Hypothekenrechner der die Laufzeit und kosten berechnen kann, sowie mieten und kaufen vergleichen.
 
-### 1.2 User Stories
+
+### 1.2 Fragen an den Auftraggeber
+1. Was genau verstehen sie unter der jährlichen Zinsbelastung?
+2. Was genau meinen sie damit, dass man den Zinssatz berechnen kann?
+3. Was genau ist mit dem Teilauftrag der Armortisation gemeint?
+
+
+### 1.3 Antworet zu den Fragen
+1.
+2.
+3.
+...
+
+
+### 1.4 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
@@ -32,10 +57,7 @@ Ein Hypothekenrechner der die Laufzeit und kosten berechnen kann, sowie mieten u
 | 11  |  kann          |  Funktional     | Als user möchte ich am Ende eine Zusammenfassung erhalten
 
 
-
-
-
-### 1.3 Testfälle
+### 1.5 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
@@ -52,15 +74,7 @@ Ein Hypothekenrechner der die Laufzeit und kosten berechnen kann, sowie mieten u
 | 11.1 |   Alle Eingaben getätigt      | Die Verlangten Angaben| Zahlen in einer Tabelle  |
 
 
-
-
-
-
-
-
-
-
-### 1.4 Diagramme
+### 1.6 Diagramme
 [Hypothek.zip](https://github.com/robinsacher/Hypothekenrechner/files/9682772/Hypothek.zip)
 
  
