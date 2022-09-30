@@ -33,7 +33,7 @@ Ein Hypothekenrechner der die Laufzeit und kosten berechnen kann, sowie mieten u
 3. Was genau ist mit dem Teilauftrag der Armortisation gemeint?
 
 
-### 1.3 Antworet zu den Fragen
+### 1.3 Antworten zu den Fragen
 1.
 2.
 3.
