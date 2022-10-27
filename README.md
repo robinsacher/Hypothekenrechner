@@ -15,10 +15,11 @@ E-Mail: robin.sacher@students.ksba.ch
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
-
+| 29.09.2022      | 0.0.1   | Planung des Projektes, mit pap                               |
+| 29.09.2022      | 0.0.2   | User Stories geschrieben                                     |
+| 29.09.2022      | 0.0.3   | Testfälle geschrieben                                        |
+| 30.09.2022      | 0.0.4   | E-Mail geschrieben an Auftraggeber                           |
+| 30.09.2022      | 0.0.5   | Infos gesammelt und fertig geplant                           |
 
 ## 1 Informieren
 
