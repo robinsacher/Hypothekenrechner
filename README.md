@@ -62,11 +62,11 @@ Ein Hypothekenrechner der die Laufzeit und kosten berechnen kann, sowie mieten u
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |   Programm gestartet          |  500   |   500            |
-| 2.1  |   Programm gestartet          |   2    |    2             |
-| 3.1  |            |        |                  |
-| 4.1  |   Hypothek und Zinssatz eingegeben |        |                  |
-| 5.1  |    Programm gestartet                           |   12     |      12            |
+| 1.1  |   Programm gestartet          |  500   |   500                               |
+| 2.1  |   Programm gestartet          |   2    |    2                                |
+| 3.1  |   Zinssatz und Hypothekbetrag eingetragen  |    0.05 / 1000000    | 5000     |
+| 4.1  |   Hypothek und Zinssatz eingegeben | 1000000 / 5000       | 100000 / 5000    |
+| 5.1  |   Programm gestartet          |   12   |      12                              |
 | 6.1  |   Programm gestartet          |        |                  |
 | 7.1  |   Eingabe der Dauer in Monaten| 24     | 1000             |
 | 8.1  |   Eingabe Alter und Kaufpreis | 30 und 100 000| Geht      |
@@ -103,7 +103,7 @@ Total: 450min
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns entschieden noch einige Sachen bei unserem Auftraggeber nachzufragen.
 
 ## 4 Realisieren
 
