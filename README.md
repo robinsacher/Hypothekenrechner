@@ -66,8 +66,8 @@ Ein Hypothekenrechner der die Laufzeit und kosten berechnen kann, sowie mieten u
 | 2.1  |   Programm gestartet          |   2    |    2                                |
 | 3.1  |   Zinssatz und Hypothekbetrag eingetragen  |    0.05 / 1000000    | 5000     |
 | 4.1  |   Hypothek und Zinssatz eingegeben | 1000000 / 5000       | 100000 / 5000    |
-| 5.1  |   Programm gestartet          |   12   |      12                              |
-| 6.1  |   Programm gestartet          |        |                  |
+| 5.1  |   Programm gestartet          |   12   |      12                             |
+| 6.1  |   Betrag Haus / Betrag  Mieten  Jahre eingetragen| 1000000 / 1001000 | 10    |
 | 7.1  |   Eingabe der Dauer in Monaten| 24     | 1000             |
 | 8.1  |   Eingabe Alter und Kaufpreis | 30 und 100 000| Geht      |
 | 9.1  |   Programm gestartet          | 30     | 30               |
