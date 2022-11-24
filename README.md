@@ -27,20 +27,6 @@ E-Mail: robin.sacher@students.ksba.ch
 
 Ein Hypothekenrechner der die Laufzeit und kosten berechnen kann, sowie mieten und kaufen vergleichen.
 
-
-### 1.2 Fragen an den Auftraggeber
-1. Was genau verstehen sie unter der jährlichen Zinsbelastung?
-2. Was genau meinen sie damit, dass man den Zinssatz berechnen kann?
-3. Was genau ist mit dem Teilauftrag der Armortisation gemeint?
-
-
-### 1.3 Antworten zu den Fragen
-1.
-2.
-3.
-...
-
-
 ### 1.4 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
