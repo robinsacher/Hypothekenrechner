@@ -37,7 +37,7 @@ Ein Hypothekenrechner der die Laufzeit und kosten berechnen kann, sowie mieten u
 |  4  |   muss         |  Funktional     | Als user möchte ich den Hypothekbetrag und Zinsbetrag berechnen können
 |  5  |  muss          |  Funktional     | Als user möchte ich die benötigten finanziellen Mitteln für den Kauf der Liegenschaft sowie der Hypothekarzinsbelastung angeben können
 | 6   |   muss         | Funktional      | Als user möchte ich berechnen können nach wie vielen Jahren der kauf einer Liegenschaft günstiger im Vergleich zur Miete ist(Jährliche Mietkosten)
-| 7   |  muss          |  Funktional     | Als user möchte ich berechnen können, welchen Betrag ich monatlich amortisieren muss, um diese rechtzeitig zu amortisieren
+| 7   |  muss          |  Funktional     | Als user möchte ich berechnen können, welchen Betrag ich jährlich amortisieren muss, um diese rechtzeitig zu amortisieren
 | 8   |  muss          |  Funktional     | Als user darf ich nicht länger als 15 Jahre oder bis zur Pensionierung haben bis max. 2/3 des Kaufpreises reduziert worden ist
 | 9   |  muss          | Funktional      | Als user möchte ich mein alter eingeben können
 | 10  |  kann          |  Funktional     | Als user möchte ich das Fehleingaben abgefangen werden
