@@ -69,17 +69,17 @@ Ein Hypothekenrechner der die Laufzeit und kosten berechnen kann, sowie mieten u
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  08.12.2022     |           |   Eingabe           |    10min           |
-| 2.A  |  08.12.2022      |           |   Eingabe           |     10min          |
-| 3.A  |  08.12.2022      |           |   Eingabe           |     10min          |
-| 4.A  |   08.12.2022     |           |    Berechnung          |     60min          |
-| 5.A  |   08.12.2022     |           |     Eingabe         |     10min          |
-| 6.A  |   08.12.2022    |           |     Berechnung         |     60min          |
-| 7.A  |    08.12.2022    |           |     Berechnung         |      120min         |
-| 8.A  |    08.12.2022    |           |     Berechnug         |       120min        |
-| 9.A  |    08.12.2022    |           |     Eingabe         |       10min        |
-| 10.A  |   08.12.2022     |           |    Sicherheitskontrolle          |      30min         |
-| 11.A  |   08.12.2022     |           |    Ausgabe          |      10min         |
+| 1.A  |  08.12.2022     |  Hitz         |   Eingabe           |    10min           |
+| 2.A  |  08.12.2022      |   Sacher        |   Eingabe           |     10min          |
+| 3.A  |  08.12.2022      |    Müller       |   Eingabe           |     10min          |
+| 4.A  |   08.12.2022     |   Sacher        |    Berechnung          |     60min          |
+| 5.A  |   08.12.2022     |    Hitz       |     Eingabe         |     10min          |
+| 6.A  |   08.12.2022    |      Warnebold     |     Berechnung         |     60min          |
+| 7.A  |    08.12.2022    |    Müller       |     Berechnung         |      120min         |
+| 8.A  |    08.12.2022    |      Hitz     |     Berechnug         |       120min        |
+| 9.A  |    08.12.2022    |      Sacher     |     Eingabe         |       10min        |
+| 10.A  |   08.12.2022     |   Warnebold        |    Sicherheitskontrolle          |      30min         |
+| 11.A  |   08.12.2022     |   Müller        |    Ausgabe          |      10min         |
 
 
 
@@ -96,9 +96,18 @@ Wir haben uns entschieden noch einige Sachen bei unserem Auftraggeber nachzufrag
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |   27.10.2022    |     Sacher      |       90min        |          40min         |
-| ...  |       |           |               |                   |
+| 2.A  |  08.12.2022      |   Sacher        |   10min          |  20min        |
+| 3.A  |  08.12.2022      |    Müller       |       10min          |  15min         |
+| 4.A  |   08.12.2022     |   Sacher        |      60min          |  70min         |
+| 5.A  |   08.12.2022     |    Hitz       |    10min          |  20min         |
+| 6.A  |   08.12.2022    |      Warnebold     |          60min          |  100min         |
+| 7.A  |    08.12.2022    |    Müller       |       120min         |  130min         |
+| 8.A  |    08.12.2022    |      Hitz     |         120min        |  100min         |
+| 9.A  |    08.12.2022    |      Sacher     |      10min        |  10min         |
+| 10.A  |   08.12.2022     |   Warnebold        |      30min         |  40min         |
+| 11.A  |   08.12.2022     |   Müller        |      10min         |  20min         |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
@@ -116,7 +125,15 @@ Wir haben uns entschieden noch einige Sachen bei unserem Auftraggeber nachzufrag
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
 | I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
+| II    |              |         |                   |                      |
+| III    |              |         |                   |                      |
+| IV    |              |         |                   |                      |
+| V    |              |         |                   |                      |
+| VI    |              |         |                   |                      |
+| VII   |              |         |                   |                      |
+| VIII  |              |         |                   |                      |
+| IX    |              |         |                   |                      |
+| X   |              |         |                   |                      |
 
 ✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
