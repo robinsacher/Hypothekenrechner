@@ -71,7 +71,7 @@ Ein Hypothekenrechner der die Laufzeit und kosten berechnen kann, sowie mieten u
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |  08.12.2022     |  Hitz         |   Eingabe           |    10min           |
 | 2.A  |  08.12.2022      |   Sacher        |   Eingabe           |     10min          |
-| 3.A  |  08.12.2022      |    Müller       |   Eingabe           |     10min          |
+| 3.A  |  08.12.2022      |    Warnebold      |   Eingabe           |     10min          |
 | 4.A  |   08.12.2022     |   Sacher        |    Berechnung          |     60min          |
 | 5.A  |   08.12.2022     |    Hitz       |     Eingabe         |     10min          |
 | 6.A  |   08.12.2022    |      Warnebold     |     Berechnung         |     60min          |
@@ -93,19 +93,19 @@ Wir haben uns entschieden noch einige Sachen bei unserem Auftraggeber nachzufrag
 
 ## 4 Realisieren
 
-| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
-| ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |   27.10.2022    |     Sacher      |       90min        |          40min         |
-| 2.A  |  08.12.2022      |   Sacher        |   10min          |  20min        |
-| 3.A  |  08.12.2022      |    Müller       |       10min          |  15min         |
-| 4.A  |   08.12.2022     |   Sacher        |      60min          |  70min         |
-| 5.A  |   08.12.2022     |    Hitz       |    10min          |  20min         |
-| 6.A  |   08.12.2022    |      Warnebold     |          60min          |  100min         |
-| 7.A  |    08.12.2022    |    Müller       |       120min         |  130min         |
-| 8.A  |    08.12.2022    |      Hitz     |         120min        |  100min         |
-| 9.A  |    08.12.2022    |      Sacher     |      10min        |  10min         |
-| 10.A  |   08.12.2022     |   Warnebold        |      30min         |  40min         |
-| 11.A  |   08.12.2022     |   Müller        |      10min         |  20min         |
+| AP-№  | Datum             | Zuständig | geplante Zeit | tatsächliche Zeit |
+| ----  | -----             | --------- | ------------- | ----------------- |
+| 1.A   |   27.10.2022      |     Sacher    |      90min        |  40min        |
+| 2.A   |  08.12.2022       |   Sacher      |      10min        |  20min        |
+| 3.A   |  08.12.2022       |    Warnebold  |      10min        |  15min        |
+| 4.A   |   08.12.2022      |   Sacher      |      60min        |  70min        |
+| 5.A   |   08.12.2022      |    Hitz       |      10min        |  20min        |
+| 6.A   |   08.12.2022      |   Warnebold   |      60min        |  100min       |
+| 7.A   |    08.12.2022     |    Müller     |      120min       |  130min       |
+| 8.A   |    08.12.2022     |      Hitz     |      120min       |  100min       |
+| 9.A   |    08.12.2022     |      Sacher   |      10min        |  10min        |
+| 10.A  |   08.12.2022      |   Warnebold   |      30min        |  40min        |
+| 11.A  |   08.12.2022      |   Müller      |      10min        |  20min        |
 
 
 
@@ -113,10 +113,20 @@ Wir haben uns entschieden noch einige Sachen bei unserem Auftraggeber nachzufrag
 
 ### 5.1 Testprotokoll
 
-| TC-№ | Datum | Resultat | Tester |
-| ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| TC-№  | Datum | Resultat | Tester |
+| ----  | ----- | -------- | ------ |
+| 1.1   |       |          |        |
+| 2.1   |       |          |        |
+| 3.1   |       |          |        |
+| 4.1   |       |          |        |
+| 5.1   |       |          |        |
+| 6.1   |       |          |        |
+| 7.1   |       |          |        |
+| 8.1   |       |          |        |
+| 9.1   |       |          |        |
+| 10.1  |       |          |        |
+| 11.1  |       |          |        |
+
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
@@ -125,17 +135,17 @@ Wir haben uns entschieden noch einige Sachen bei unserem Auftraggeber nachzufrag
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
 | I    |              |         |                   |                      |
-| II    |              |         |                   |                      |
-| III    |              |         |                   |                      |
-| IV    |              |         |                   |                      |
+| II   |              |         |                   |                      |
+| III  |              |         |                   |                      |
+| IV   |              |         |                   |                      |
 | V    |              |         |                   |                      |
-| VI    |              |         |                   |                      |
-| VII   |              |         |                   |                      |
-| VIII  |              |         |                   |                      |
-| IX    |              |         |                   |                      |
-| X   |              |         |                   |                      |
+| VI   |              |         |                   |                      |
+| VII  |              |         |                   |                      |
+| VIII |              |         |                   |                      |
+| IX   |              |         |                   |                      |
+| X    |              |         |                   |                      |
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
+
 
 ## 6 Auswerten
 
