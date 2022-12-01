@@ -42,7 +42,8 @@ Ein Hypothekenrechner der die Laufzeit und kosten berechnen kann, sowie mieten u
 | 9   |  muss          | Funktional      | Als user möchte ich mein alter eingeben können
 | 10  |  kann          |  Funktional     | Als user möchte ich das Fehleingaben abgefangen werden
 | 11  |  kann          |  Funktional     | Als user möchte ich am Ende eine Zusammenfassung erhalten
-|12   |  kann          |                 | Als user möchte ich, dass das Programm nicht gleich endet
+|12   |  kann          |  funktional     | Als user möchte ich, dass das Programm nicht gleich endet wenn man eine Funktion gemacht hat, damit man auch die anderen Funktionen machen kann
+|13   |                |                 | 
 
 
 ### 1.5 Testfälle
