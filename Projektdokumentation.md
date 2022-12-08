@@ -151,5 +151,5 @@ Wir haben uns entschieden noch einige Sachen bei unserem Auftraggeber nachzufrag
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+Das Projekt ist gut, es funktioniert fast alles nur noch 1 bis 2 kleine Logikfehler. Das Projekt ist gut gelaufen. 
 
