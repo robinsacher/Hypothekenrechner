@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Hypothekenrechner fertig/1.0.0": {
+        "runtime": {
+          "Hypothekenrechner fertig.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hypothekenrechner fertig/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
