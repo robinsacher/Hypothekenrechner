@@ -117,17 +117,17 @@ Wir haben uns entschieden noch einige Sachen bei unserem Auftraggeber nachzufrag
 
 | TC-№  | Datum | Resultat | Tester |
 | ----  | ----- | -------- | ------ |
-| 1.1   |08.12.2022|          |Warnebold, Hitz|
-| 2.1   |08.12.2022|          |Warnebold, Hitz|
-| 3.1   |08.12.2022|          |Warnebold, Hitz|
-| 4.1   |08.12.2022|          |Warnebold, Hitz|
-| 5.1   |08.12.2022|          |Warnebold, Hitz|
-| 6.1   |08.12.2022|          |Warnebold, Hitz|
-| 7.1   |08.12.2022|          |Warnebold, Hitz|
-| 8.1   |08.12.2022|          |Warnebold, Hitz|
-| 9.1   |08.12.2022|          |Warnebold, Hitz|
-| 10.1  |08.12.2022|          |Warnebold, Hitz|
-| 11.1  |08.12.2022|          |Warnebold, Hitz|
+| 1.1   |08.12.2022| Funktioniert |Warnebold, Hitz|
+| 2.1   |08.12.2022| Funktioniert |Warnebold, Hitz|
+| 3.1   |08.12.2022| Funktioniert |Warnebold, Hitz|
+| 4.1   |08.12.2022| Funktioniert |Warnebold, Hitz|
+| 5.1   |08.12.2022| Funktioniert |Warnebold, Hitz|
+| 6.1   |08.12.2022| Funktioniert |Warnebold, Hitz|
+| 7.1   |08.12.2022| Funktioniert |Warnebold, Hitz|
+| 8.1   |08.12.2022| Funktioniert |Warnebold, Hitz|
+| 9.1   |08.12.2022| Funktioniert |Warnebold, Hitz|
+| 10.1  |08.12.2022| Funktioniert |Warnebold, Hitz|
+| 11.1  |08.12.2022| Funktioniert |Warnebold, Hitz|
 
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
