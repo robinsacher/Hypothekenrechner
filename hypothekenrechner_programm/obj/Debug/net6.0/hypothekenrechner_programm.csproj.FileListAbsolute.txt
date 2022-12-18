@@ -1,0 +1,15 @@
+C:\Users\robin\source\repos\hypothekenrechner_programm\bin\Debug\net6.0\hypothekenrechner_programm.exe
+C:\Users\robin\source\repos\hypothekenrechner_programm\bin\Debug\net6.0\hypothekenrechner_programm.deps.json
+C:\Users\robin\source\repos\hypothekenrechner_programm\bin\Debug\net6.0\hypothekenrechner_programm.runtimeconfig.json
+C:\Users\robin\source\repos\hypothekenrechner_programm\bin\Debug\net6.0\hypothekenrechner_programm.dll
+C:\Users\robin\source\repos\hypothekenrechner_programm\bin\Debug\net6.0\hypothekenrechner_programm.pdb
+C:\Users\robin\source\repos\hypothekenrechner_programm\obj\Debug\net6.0\hypothekenrechner_programm.csproj.AssemblyReference.cache
+C:\Users\robin\source\repos\hypothekenrechner_programm\obj\Debug\net6.0\hypothekenrechner_programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\source\repos\hypothekenrechner_programm\obj\Debug\net6.0\hypothekenrechner_programm.AssemblyInfoInputs.cache
+C:\Users\robin\source\repos\hypothekenrechner_programm\obj\Debug\net6.0\hypothekenrechner_programm.AssemblyInfo.cs
+C:\Users\robin\source\repos\hypothekenrechner_programm\obj\Debug\net6.0\hypothekenrechner_programm.csproj.CoreCompileInputs.cache
+C:\Users\robin\source\repos\hypothekenrechner_programm\obj\Debug\net6.0\hypothekenrechner_programm.dll
+C:\Users\robin\source\repos\hypothekenrechner_programm\obj\Debug\net6.0\refint\hypothekenrechner_programm.dll
+C:\Users\robin\source\repos\hypothekenrechner_programm\obj\Debug\net6.0\hypothekenrechner_programm.pdb
+C:\Users\robin\source\repos\hypothekenrechner_programm\obj\Debug\net6.0\hypothekenrechner_programm.genruntimeconfig.cache
+C:\Users\robin\source\repos\hypothekenrechner_programm\obj\Debug\net6.0\ref\hypothekenrechner_programm.dll
