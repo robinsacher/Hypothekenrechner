@@ -130,25 +130,6 @@ Wir haben uns entschieden noch einige Sachen bei unserem Auftraggeber nachzufrag
 | 11.1  |08.12.2022| Funktioniert |Warnebold, Hitz|
 
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| II   |              |         |                   |                      |
-| III  |              |         |                   |                      |
-| IV   |              |         |                   |                      |
-| V    |              |         |                   |                      |
-| VI   |              |         |                   |                      |
-| VII  |              |         |                   |                      |
-| VIII |              |         |                   |                      |
-| IX   |              |         |                   |                      |
-| X    |              |         |                   |                      |
-
-
-
 ## 6 Auswerten
 
 Das Projekt ist gut, es funktioniert fast alles nur noch 1 bis 2 kleine Logikfehler. Das Projekt ist gut gelaufen. 
